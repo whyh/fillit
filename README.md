@@ -14,4 +14,4 @@ Program processes up tp 26 details. You can find examples of valid input [here](
 Run `make` and `./fillit tetriminos/mediocre.fillit`
 
 ## Co-author
-linkplaceholder -- `validation` and `shape recognition` of the tetriminos
+[bkuksa](https://github.com/Marazm12346) -- `validation` and `shape recognition` of the tetriminos
